@@ -102,8 +102,9 @@ h3{
     padding: 10px; 
 }
 
-.nutricion hr {
+.nutricion {
     margin-top: 20px;
+    margin-left: 30px;
     border-color: purple;
     border-width: 0.5px;
 }
